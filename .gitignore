@@ -1,0 +1,8 @@
+/build/
+/erl_hub.exe
+/erl_hub_single.exe
+/erl_hub_audit.bin
+*.tmp
+*.ilk
+*.obj
+*.pdb
